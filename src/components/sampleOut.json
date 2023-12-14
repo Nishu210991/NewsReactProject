@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kenya power blackout fuels public outrage over KPLC",
+            "description": "Kenya has experienced three nationwide blackouts in the last four months, the latest on Sunday evening.",
+            "url": "http://www.bbc.co.uk/news/world-africa-67622517",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/248D/production/_131975390_gettyimages-145520896.jpg",
+            "publishedAt": "2023-12-11T08:22:16.6005048Z",
+            "content": "Kenyans are demanding answers after a nationwide power blackout plunged the country into darkness late on Sunday.\r\nIt hit at about 20:00 local time (17:00 GMT) - Kenya's third countrywide blackout in… [+1888 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Bronny James: LeBron James' son makes college debut after cardiac arrest",
+            "description": "Bronny James, the son of legend LeBron James, says he is \"thankful for everything\" as he makes his college debut just months after collapsing with a cardiac arrest.",
+            "url": "http://www.bbc.co.uk/sport/basketball/67679170",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/536D/production/_131975312_gettyimages-1845748507.jpg",
+            "publishedAt": "2023-12-11T07:52:17.9438684Z",
+            "content": "Bronny James, the son of basketball legend LeBron James, said he was \"thankful for everything\" as he made his college debut less than five months after collapsing with a cardiac arrest.\r\nThe 19-year-… [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tennessee: At least six dead as tornadoes rip through state",
+            "description": "Severe storms brought devastation to parts of the southern US state on Saturday.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67673627",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5AA7/production/_131970232_16376823cf1fbd1e7fca7725b1a3aa1b5c5780950_0_6000_40001000x667.jpg",
+            "publishedAt": "2023-12-11T07:37:16.3500099Z",
+            "content": "Media caption, Watch: Explosion and fireball seen as storm sweeps through Tennessee\r\nAt least six people died after tornadoes and severe storms tore through parts of Tennessee on Saturday.\r\nBuildings… [+1478 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Article 370: Supreme Court to deliver verdict on Kashmir's special status",
+            "description": "In August 2019, the BJP-led government had stripped the state of Jammu and Kashmir of its special status.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-67634689",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1F95/production/_131958080_gettyimages-1022374138-594x594.jpg",
+            "publishedAt": "2023-12-11T05:37:15.6788642Z",
+            "content": "India's top court is due to give its verdict on pleas challenging the revocation of special status for the former state of Jammu and Kashmir.\r\nIn August 2019, the BJP-led government revoked Article 3… [+4806 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Australia to halve immigration intake by June 2025, fix 'broken' system",
+            "description": "The annual intake will be slashed to 250,000, with housing and infrastructure under strain from record migration.",
+            "url": "http://www.bbc.co.uk/news/world-australia-67609963",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FBB/production/_131955777_gettyimages-1270904789.jpg",
+            "publishedAt": "2023-12-11T05:22:20.3714154Z",
+            "content": "The Australian government says it will halve the migration intake within two years in a bid to fix the country's \"broken\" immigration system.\r\nThe annual intake will be slashed to 250,000 - roughly i… [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel-Gaza latest news: Chances shrinking of new ceasefire, Qatar says, as Israel intensifies assault",
+            "description": "Qatar vows to maintain efforts to halt fighting in Gaza after Israeli troops are told to \"press harder\".",
+            "url": "http://www.bbc.co.uk/news/live/world-middle-east-67672759",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-12-11T05:22:20.108836Z",
+            "content": "UN Humanitarian Coordinator Lynn Hastings has condemned the assaults on human rights on both Palestinians and Israelis as the world marked International Human Rights on Sunday.\r\nShe called for the un… [+979 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mar-a-Lago: The billion dollar question at heart of Trump fraud trial",
+            "description": "Donald Trump's Mar-a-Lago property has been valued between $18m and $1bn, so what's it really worth?",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67644052",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B7D0/production/_131965074_maralagoreuters.jpg",
+            "publishedAt": "2023-12-11T01:52:12.4128052Z",
+            "content": "Donald Trump calls Mar-a-Lago the \"Mona Lisa\" of properties, but how much is it actually worth? The question is at the centre of the civil fraud trial which threatens his family business.\r\nIt's the m… [+7719 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elite Afghan troops face return to Taliban after UK 'betrayal'",
+            "description": "About 200 British-trained special forces soldiers are in danger as Pakistan expels undocumented foreigners.",
+            "url": "http://www.bbc.co.uk/news/uk-67663888",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1760C/production/_131965759_333training.jpg",
+            "publishedAt": "2023-12-11T01:22:16.2722959Z",
+            "content": "About 200 members of Afghan special forces, trained and funded by the UK, face imminent deportation to their Taliban-controlled homeland, the BBC has learned.\r\nThe figures - gathered by a network of … [+9456 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Javier Milei: New president tells Argentina 'shock treatment' looms",
+            "description": "The country's new far-right president vows to launch a radical economic programme as he is sworn in.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-67678276",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8FF/production/_131974695_f0719de71e29758edd391b238c9ac17499e740a60_0_2007_13021000x649.jpg",
+            "publishedAt": "2023-12-11T00:37:17.1167984Z",
+            "content": "Argentina's new far-right president has vowed to deliver economic \"shock treatment\" in his first speech after formally taking office.\r\nJavier Milei warned Argentines \"there is no money\" and recommitt… [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Zelensky faces key tests to re-energise West's support for Ukraine",
+            "description": "A White House visit is on the Ukrainian leader's agenda as cracks appear among Western allies.",
+            "url": "http://www.bbc.co.uk/news/world-67677593",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD47/production/_131974665_mediaitem131974664.jpg",
+            "publishedAt": "2023-12-10T23:52:14.9754186Z",
+            "content": "President Volodymyr Zelensky has had a brief - but intense-looking - conversation with the man threatening to block Ukraine's EU aspirations.\r\nHe met Hungary's Prime Minister Viktor Orban at the inau… [+3708 chars]"
+        }
+    ]
+}
