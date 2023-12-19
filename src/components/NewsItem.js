@@ -1,8 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class NewsItem extends Component {
-  render() {
-    let { title, description, imageUrl, newsUrl, author, date , source} = this.props;
+const NewsItem =(props) => {
+    let { title, description, imageUrl, newsUrl, author, date , source} = props;
     return (
       <div className="my-3">
         <div className="card" style={{ width: "18rem" }}>
@@ -14,7 +13,7 @@ export class NewsItem extends Component {
           }
           }>
   
-          <span class="badge rounded-pill bg-danger">{source}</span></div>
+          <span className="badge rounded-pill bg-danger">{source}</span></div>
         
     
           <img src={
@@ -47,6 +46,6 @@ export class NewsItem extends Component {
       </div>
     );
   }
-}
+
 
 export default NewsItem;
