@@ -6,8 +6,17 @@ export class NewsItem extends Component {
     return (
       <div className="my-3">
         <div className="card" style={{ width: "18rem" }}>
-        <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{left:'55%',zIndex:'1'}}>{source}
-            </span>
+
+          <div style= {{  display: 'flex',
+                          justifyContent: 'flex-end',
+                          position: 'absolute',
+                          right: '0'
+          }
+          }>
+  
+          <span class="badge rounded-pill bg-danger">{source}</span></div>
+        
+    
           <img src={
               !imageUrl
                 ? "https://english.cdn.zeenews.com/sites/default/files/2023/12/12/1334764-live-score-ind-vs-sa.jpg"
@@ -21,7 +30,7 @@ export class NewsItem extends Component {
             </h5>
             <p className="card-text">{description}</p>
             <p className="card-text">
-              <small class="text-body-secondary">
+              <small className="text-body-secondary">
                 By {!author ? "Unknown" : author} {new Date(date).toGMTString()}
               </small>
             </p>
